@@ -5,3 +5,6 @@ def countdown (number)
 end
 "HAPPY NEW YEAR!"
 end
+
+def countdown_to_sleep (sleep 1.seconds)
+end
